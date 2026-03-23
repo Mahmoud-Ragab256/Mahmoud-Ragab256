@@ -1,22 +1,16 @@
 <div align="center">
-
-```
-███╗   ███╗ █████╗ ██╗  ██╗███╗   ███╗ ██████╗ ██╗   ██╗██████╗
-████╗ ████║██╔══██╗██║  ██║████╗ ████║██╔═══██╗██║   ██║██╔══██╗
-██╔████╔██║███████║███████║██╔████╔██║██║   ██║██║   ██║██║  ██║
-██║╚██╔╝██║██╔══██║██╔══██║██║╚██╔╝██║██║   ██║██║   ██║██║  ██║
-██║ ╚═╝ ██║██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝╚██████╔╝██████╔╝
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝
-                R  A  G  A  B
-```
-
-### Full Stack Developer · Cairo, Egypt 🇪🇬
+ 
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mahmoud%20Ragab&fontSize=60&fontColor=38BDF8&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cairo%2C%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC&descAlignY=58&descSize=18&descColor=94a3b8" width="100%"/>
+ 
+ 
+### Full Stack Developer · Menufia, Egypt 🇪🇬
 #### *Building things that work. Learning things that matter. Sharing what I know.*
-
+ 
 <br/>
-
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Node.js+%2B+TypeScript+%2B+MongoDB;React+%2B+Tailwind+CSS;Always+learning%2C+always+building...)](https://git.io/typing-svg)
-
+ 
 </div>
 
 ---
@@ -38,10 +32,12 @@ I'm currently at the beginning of my journey — but I ship code, I ask question
 ## 🛠️ Tech Stack
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -116,8 +112,8 @@ I believe in **learning by doing**. Every project I build teaches me something n
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-ragab-168468385)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudragabwdl@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahmoud-Ragab256)
 
 </div>
